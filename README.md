@@ -1,8 +1,10 @@
 # SC-parameter-free
 
+[![DOI](http://img.shields.io/badge/doi-10.1016/j.array.2022.100192-36648B.svg)](https://doi.org/10.1016/j.array.2022.100192)
+
 ## 	A parameter-free graph reduction for spectral clustering and SpectralNet
 This is an implementation for the following paper:
-```
+```bibtex
 @article{ALSHAMMARI2022100192,
 	title = {A parameter-free graph reduction for spectral clustering and SpectralNet},
 	journal = {Array},
