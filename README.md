@@ -20,7 +20,7 @@ This is an implementation for the following paper:
 BATCH_Points.m executes the following commands:
 1.	PRE_Points.m loads toy data, csv files are the groundtruth labels.
 2.	the variable $k$ is the number of clusters, the algorithm will cluster data to $k$ clusters
-	- RUN_Points_VQ.m to perform approximate spectral clustering with parameter $\m$ for:
+	- RUN_Points_VQ.m to perform approximate spectral clustering with parameter $m$ for:
 		- kmeans approximation	+ local sigma edges
 		- kmeans approximation	+ CONN edges
 		- SOM approximation		+ CONN edges
