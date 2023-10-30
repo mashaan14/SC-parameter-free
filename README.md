@@ -6,12 +6,12 @@
 This is an implementation for the following paper:
 ```bibtex
 @article{ALSHAMMARI2022100192,
-	title = {A parameter-free graph reduction for spectral clustering and SpectralNet},
+	title 	= {A parameter-free graph reduction for spectral clustering and SpectralNet},
 	journal = {Array},
-	volume = {15},
-	year = {2022},
-	doi = {https://doi.org/10.1016/j.array.2022.100192},
-	author = {Mashaan Alshammari and John Stavrakakis and Masahiro Takatsuka}
+	volume 	= {15},
+	year 	= {2022},
+	doi 	= {https://doi.org/10.1016/j.array.2022.100192},
+	author 	= {Mashaan Alshammari and John Stavrakakis and Masahiro Takatsuka}
 }
 ```
 
